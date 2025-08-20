@@ -1,0 +1,7 @@
+/node_modules
+.env.backup
+.env.production
+/.vscode
+vendor/jaybizzle/crawler-detect/
+vendor/jenssegers/agent/
+vendor/mobiledetect/mobiledetectlib/
